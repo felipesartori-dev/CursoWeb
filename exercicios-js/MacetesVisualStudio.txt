@@ -1,0 +1,11 @@
+Cntrl + Shift + K = excluir lenis
+Cntrl + Shift + Enter = Insere linha a cima
+Cntrl + Enter = Insere linha baixo
+Ctrl + ] = Identa a linha atual
+Home / End = vai para o ínicio e fim da linha
+Ctrl + Home = Ir para o início do arquivo
+Ctrl + End = ir para o final do arquivo
+Ctrl + K Ctrl + C = Comenta a linha
+Shift + Alt + A = Abre comentario de bloco
+Ctrl F + Ctrl H = Pesquisa e altera todas as ocorrencia 
+
