@@ -7,5 +7,8 @@ Ctrl + Home = Ir para o início do arquivo
 Ctrl + End = ir para o final do arquivo
 Ctrl + K Ctrl + C = Comenta a linha
 Shift + Alt + A = Abre comentario de bloco
-Ctrl F + Ctrl H = Pesquisa e altera todas as ocorrencia 
+Ctrl F + Ctrl H = Pesquisa e altera todas as ocorrencia
+
+
+/* eslint-disable prettier/prettier */ = desativa o prettier no arquivo em questão
 

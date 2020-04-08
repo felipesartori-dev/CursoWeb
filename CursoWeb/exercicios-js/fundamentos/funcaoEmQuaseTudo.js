@@ -1,4 +1,6 @@
-console.log(typeof Object)
+/* eslint-disable prettier/prettier */
 
-class teste{}
+console.log(typeof Object);
+
+class teste { }
 console.log(typeof teste)
