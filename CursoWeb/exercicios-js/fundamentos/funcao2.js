@@ -2,14 +2,14 @@
 recebe um nome) em uma constante*/
 
 const ImprimeSoma = function (a, b) {
-    return a + b
+  return a + b
 }
 
 console.log(ImprimeSoma(10, 8))
 
 // Exemplo de uma função ARROW - A "Seta" indica que isso é uma função, ela substitui a palavra FUNCTION
 const Soma = (a, b) => {
-    return a + b
+  return a + b
 }
 
 console.log(Soma(5, 8))
@@ -23,4 +23,3 @@ console.log(Subtracao(10, 3))
 const Imprimir = a => console.log(a)
 
 Imprimir('Fala ae pessoas, tudo sussa ?')
-
