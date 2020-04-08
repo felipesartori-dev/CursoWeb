@@ -1,6 +1,6 @@
 var numero = 1
 {
-    var numero = 2
+    //var numero = o javascript não acusa, mas sabemos que irá dar erro pelo fato de estarmos declarando uma variável já existente
     console.log('dentro = ', numero)
 }
 

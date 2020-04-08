@@ -11,3 +11,7 @@ console.log(typeof qualquer)
 let valor = ''
 let numero = 1
 let pqp = false // Produto Químico Perigoso... kkk
+
+console.log(valor)
+console.log(numero)
+console.log(pqp)
